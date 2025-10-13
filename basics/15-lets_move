@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -t [AZ]* /tmp/u
+mv -t "*[[:upper:]]" /tpm/u
